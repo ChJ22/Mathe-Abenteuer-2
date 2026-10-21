@@ -1,0 +1,1 @@
+Mathe-Abenteuer: neue Belohnungsauswahl mit Merlin (3 Kapitel und Bildern), weitere Bereiche in Entwicklung. Mathematikgenerator, Themen und Hilfen aus der Ausgangsversion übernommen. Punkte werden lokal gespeichert. Keine neue Datenbankanbindung. Hinweis: Bestehende Cloud-/Kontodateien der Vorlage sind weiterhin enthalten, die Belohnungen werden ausschließlich lokal gespeichert.
